@@ -16,7 +16,7 @@ domain expertise with software engineering.
 
 ### 📄 Resume
 
-[**View / Download My Resume (PDF)**](./Ke_Zhang_Resume.pdf)
+[View / Download My Resume (PDF)](./Ke%20Zhang_Resume.pdf)
 
 ### 🚀 Featured Projects
 
