@@ -12,7 +12,7 @@ I bridge **finance domain expertise and software engineering**, building reliabl
 
 ### 📄 Resume & Contact
 
-[**📄 View My Resume (PDF)**](https://github.com/COCO-WaterBird/COCO-WaterBird/blob/main/Ke%20Zhang_Resume.pdf) · [GitHub](https://github.com/COCO-WaterBird)
+[**📄 View My Resume (PDF)**](https://github.com/COCO-WaterBird/COCO-WaterBird/blob/main/Ke%20Zhang_Resume.pdf)
 
 ### 💼 Professional Highlights
 
